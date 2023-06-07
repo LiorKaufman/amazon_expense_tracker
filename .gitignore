@@ -8,4 +8,5 @@ filtered_elements.html
 *.csv
 *.png
 AMAZON_EXPENSES
+/AMAZON_EXPENSES
 *.wal
